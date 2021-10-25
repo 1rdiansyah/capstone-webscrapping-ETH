@@ -1,6 +1,6 @@
 # Web-Scrapping Ethereum USD (Historical Data) using Beautifulsoup
 
-Project ini dibuat sebagai Final Project saya, Irdiansyah di Data Analytics Specialization bersama Algoritma. Capstone ini khususnya mencoba menarik data web yang dipublikasikan secara bebas, yang biasa disebut Webscrapping. Kali ini saya akan menarik Data Volume Penjualan Ethereum dari website coingecko.com.
+Project ini dibuat sebagai Final Project saya, **Irdiansyah** di Data Analytics Specialization bersama Algoritma. Capstone ini khususnya mencoba menarik data web yang dipublikasikan secara bebas, yang biasa disebut Webscrapping. Kali ini saya akan menarik Data Volume Penjualan Ethereum dari website coingecko.com.
 
 ## Dependencies
 
