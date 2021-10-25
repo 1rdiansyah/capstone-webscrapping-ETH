@@ -47,8 +47,8 @@ dfr = dfr.set_index('date')
 @app.route("/")
 def index(): 
 	
+	# generate card_data
 	card_data = f"{round(dfr['volume'].mean(),2)}"
-	# card_data = f'{round(dfr["volume"].mean(),2)}' #be careful with the " and ' 
 
 	# generate plot
 	ax = dfr.plot(figsize = (10,4)) 
